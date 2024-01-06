@@ -1,2 +1,2 @@
 # DrawingInAPicture
-App to help me work out how to draw lines on to a picture
+I wanted to draw some lines onto an existing picture to show various things in an app i am working on. I did not know how to do this as it is the first time I have ever needed to do this so instead of trying inside the main code I was working on I just put it here into a small app and played till I got what I wanted. You can change the code to create other shapes and even fill them with colour. Maybe in teh future if I need that I will add it to the app but feel free to do so yourself.
